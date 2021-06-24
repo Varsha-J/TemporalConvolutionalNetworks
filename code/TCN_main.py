@@ -22,6 +22,8 @@ Note: the LC-SC-CRF and DTW code can be obtained here: https://github.com/colinc
 Updated December 2016
 Colin Lea
 """
+import warnings
+warnings.filterwarnings('ignore')
 
 import os
 from collections import OrderedDict
