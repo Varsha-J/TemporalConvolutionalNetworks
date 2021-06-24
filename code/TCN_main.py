@@ -45,7 +45,7 @@ from utils import imshow_
 
 # ---------- Directories & User inputs --------------
 # Location of data/features folder
-base_dir = os.path.expanduser("~/TemporalConvolutionalNetworks/")
+base_dir = os.path.expanduser("/content/TemporalConvolutionalNetworks/")
 
 save_predictions = [False, True][1]
 viz_predictions = [False, True][1]
