@@ -28,7 +28,7 @@ from collections import OrderedDict
 
 import numpy as np
 import matplotlib.pylab as plt
-%matplotlib inline
+#%matplotlib inline
 
 from scipy import io as sio
 import sklearn.metrics as sm
